@@ -1,0 +1,10 @@
+a:link{
+    font-size: 15px;
+    text-decoration: none;
+}
+
+div:hover{
+    text-decoration:underline;
+    border: 10px solid red;
+    width: 120px;
+}

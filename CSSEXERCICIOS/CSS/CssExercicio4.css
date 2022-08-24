@@ -1,0 +1,35 @@
+div{
+    border: 3px solid #0669de;
+    height: 70px;
+    width: auto;
+    padding: 10px;
+  }
+  img{
+    height: 100px ;
+    width: auto;
+    float: left;
+  }
+  
+  h1{
+    font-family: Cambria;
+    display: inline-block;
+    padding: 10px;
+    padding-bottom: 20px;
+  }
+  
+  h1:hover{
+    text-decoration: overline;
+  }
+  
+  .noticia{
+    color: #e50509;
+  }
+  .esporte{
+    color: #8db424;
+  }
+  .entre{
+    color: #fe920a;
+  }
+  .video{
+    color: #0669de;
+  }

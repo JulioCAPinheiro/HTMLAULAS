@@ -1,0 +1,14 @@
+.img1 {
+    position: relative;
+}
+.img1 .seg {
+    visibility: hidden;
+    opacity: 0;
+    position:absolute;
+    top:0;
+    left:0;
+}
+.img1:hover .seg {
+    visibility: visible;
+    opacity: 1;
+}

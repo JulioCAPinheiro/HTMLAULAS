@@ -1,0 +1,59 @@
+a.link1 {
+    text-decoration: none;
+}
+
+
+a.link2 {
+    text-decoration: overline;
+}
+
+a.link2:active {
+    text-decoration: line-through;
+}
+
+a.link2:visited {
+    text-decoration: underline;
+}
+
+a.link2:hover {
+    text-decoration: underline;
+}
+
+a.link3 {
+    color: chocolate;
+}
+
+a.link3:hover {
+    color: green;
+}
+
+a.link4 {
+    border: solid blue;
+    background-color: black;
+    color: white;
+}
+
+a.link4:hover {
+    border-radius: 5px;
+    border: black;
+    background-color: white;
+    color: black;
+}
+
+a.link5:link {
+    color: red;
+}
+
+a.link5:visited {
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(140, 126, 179);
+}
+
+a.link5:hover {
+    text-decoration: underline;
+}
+
+a.link5:active {
+    color: yellow
+}
